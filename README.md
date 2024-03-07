@@ -15,8 +15,8 @@ In my current role, I work as a QA Automation Engineer conducting backend testin
 - 👯 I’m looking to collaborate on automation projects.
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- Mail: rashid.boufarah@g,ail.com
-- Linkeding: https://www.linkedin.com/in/rashid-boufarah/
+            - Mail: rashid.boufarah@g,ail.com
+            - Linkeding: https://www.linkedin.com/in/rashid-boufarah/
 - 📝 Resume: https://drive.google.com/file/d/1TDdcM74HKBV2o_kcpwcAiA-7ynoqQYvk/view?usp=sharing
 
 ### Languages and Tools ⚙️🔧

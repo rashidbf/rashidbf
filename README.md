@@ -16,14 +16,34 @@ In my current role, I work as a QA Automation Engineer conducting backend testin
 - 💬 Ask me about ...
 - 📫 How to reach me: 
      - Mail: rashid.boufarah@g,ail.com
-     - Linkeding: https://www.linkedin.com/in/rashid-boufarah/
+     - Linkedin: https://www.linkedin.com/in/rashid-boufarah/
 - 📝 Resume: https://drive.google.com/file/d/1TDdcM74HKBV2o_kcpwcAiA-7ynoqQYvk/view?usp=sharing
 
 ### Languages and Tools ⚙️🔧
-![image](https://github.com/rashidbf/rashidbf/assets/22606638/725aeb5c-566d-4407-9746-9ed8628d8b7a)
+![java](https://github.com/rashidbf/rashidbf/assets/22606638/2829db93-3878-4141-ba7b-228104c8cbc3) ![selenium](https://github.com/rashidbf/rashidbf/assets/22606638/c3c9c9d0-c46b-45fe-9750-46bb668d7eb9)
+![testng](https://github.com/rashidbf/rashidbf/assets/22606638/7dae6c4f-2e6d-486f-b5b2-7265ed981561)
+
+![typescript](https://github.com/rashidbf/rashidbf/assets/22606638/4f9493f7-3be5-448b-8b30-86cf3cee31bd)    ![cypress](https://github.com/rashidbf/rashidbf/assets/22606638/5df347f0-439a-4b92-82ea-9f2270594946)    ![cucumber](https://github.com/rashidbf/rashidbf/assets/22606638/2737d497-1a6a-43b0-bd78-7630e1008dfd)
+
+
+
+#### Tools
+![vs code](https://github.com/rashidbf/rashidbf/assets/22606638/3d9f0a41-ca78-4373-8ebc-b044ba40e7a1)
+![postman](https://github.com/rashidbf/rashidbf/assets/22606638/758c638d-b0df-4128-bcac-822779182e27)
+
+
+
+
+
+
+
+
+
+
+
 
             
 
-###In progress...🔋
+### In progress...🔋
 
    
